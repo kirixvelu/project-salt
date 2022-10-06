@@ -1,0 +1,9 @@
+# The Story of Scarborough Tenants
+
+Scarborough Tenants Union (STU) is a grass-root movement formed of our necessity to save lives during COVID 2020 in Scarborough. After publicly mandating no evictions during the emergency lock-down, provincial governments quietly allowed eviction applications to be processed at Ontario Landlord and Tenants Board. After corrupting politicians with private wealth and fortunes, big corporations were able use police force to evict tenants who fell behind rent payments.
+
+The legitimacy of the argument was that tenants failed to pay rent after receiving money that supposed to bailout landlords from banks. As a result, the most vulnerable population was subject to work under dangerous environment in order to meet the high cost of living and feed families during the most uncertain time. Simultaneously, the low wage workers were forced to organize in the community to protect families from corporate dispatched police violence in Toronto.
+
+Out of necessity, tenants in Scarborough came together to form union that became the Scarborough Tenants Union in April 2020. STU successfully resisted over 30 illegal evictions at 945 Midland Avenue and in the neighborhoods. The primary role of the union was to educate, inform and provide community legal resources to tenants while responding to immediate threats and harassments from corporate landlords.
+
+The STU currently headed by Kiri Vadivelu, continue to operate in arm length of several grass-root community organizations to provide community services to tenants across the city. Most notably, Acorn Canada, Federal Metro Tenants Organization, Justice for Workers, East Scarborough Tenants Union and Socialist Action Canada stand in solidarity with STU. People of STU collectively believe that people united can never be defeated.

@@ -1,0 +1,160 @@
+body {
+  font: 100% $font-stack;
+  color: $font-light-theme;
+  background-color: $background-light-theme;
+  min-height: 100vh;
+  display: grid;
+  grid-template-rows: auto 1fr auto;
+
+  nav {
+    padding: 0.75rem;
+    justify-content: space-between;
+    width: 50%;
+    margin-right: auto;
+    margin-left: auto;
+    display: flex;
+    align-items: center;
+    border-style: solid;
+    border-width: 0px;
+    border-bottom-width: 1px;
+
+    .nav-list {
+      display: flex;
+      align-items: center;
+
+      a {
+        margin-right: 2rem;
+        text-decoration: none;
+        color: $font-light-theme;
+        &:hover {
+          text-decoration: underline;
+        }
+      }
+    }
+
+    .logo {
+      margin: 0;
+      font-weight: bold;
+      font-size: medium;
+    }
+
+    .night-mode-btn {
+      color: $font-light-theme;
+      background-color: transparent;
+      border: none;
+
+      svg {
+        fill: $font-light-theme;
+      }
+    }
+  }
+
+  main {
+    width: 50%;
+    margin-left: auto;
+    margin-right: auto;
+
+    a {
+      color: #14847e;
+      text-decoration: none;
+
+      &:hover {
+        text-decoration: underline;
+      }
+    }
+  }
+
+  .article-wrapper {
+    width: 50%;
+    margin-left: auto;
+    margin-right: auto;
+
+    a {
+      color: #14847e;
+      text-decoration: none;
+
+      &:hover {
+        text-decoration: underline;
+      }
+    }
+
+    img {
+      width: 100%;
+    }
+  }
+
+  .blog-list {
+    display: grid;
+    gap: 1rem;
+
+    a:hover {
+      text-decoration: none;
+    }
+  }
+
+  .blog-single {
+    color: $font-light-theme;
+    border-style: solid;
+    border-width: 1px;
+    padding: 1rem;
+
+    .title {
+      font-weight: bold;
+      font-size: 1.5rem;
+    }
+
+    p {
+      margin: 0;
+    }
+
+    .description {
+      margin-top: 1rem;
+    }
+  }
+
+  footer {
+    padding: 0.75rem;
+    justify-content: space-between;
+    width: 50%;
+    margin-right: auto;
+    margin-left: auto;
+    display: flex;
+    align-items: center;
+    border-style: solid;
+    border-width: 0px;
+    border-top-width: 1px;
+
+    a {
+      margin: 0;
+      color: $font-light-theme;
+      display: inline-block;
+      text-decoration: none;
+
+      &:hover {
+        text-decoration: underline;
+      }
+    }
+  }
+
+  p {
+    line-height: 1.5rem;
+  }
+
+  .text-lg {
+    font-size: 1.125rem;
+    line-height: 1.75rem;
+  }
+
+  .paragraph {
+    text-align: justify;
+  }
+
+  .link-btn {
+    color: $font-light-theme;
+    padding: 0.5rem;
+    font-size: small;
+    border-style: solid;
+    border-width: 1px;
+    display: inline-block;
+  }
+}
