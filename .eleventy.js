@@ -4,6 +4,8 @@ module.exports = function (eleventyConfig) {
   eleventyConfig.addPassthroughCopy("./src/js");
   eleventyConfig.addPassthroughCopy("./src/img");
 
+  eleventyConfig.addPassthroughCopy("./src/404.md");
+
   eleventyConfig.addPassthroughCopy("./favicon.ico");
   eleventyConfig.addPassthroughCopy("./site.webmanifest");
   eleventyConfig.addPassthroughCopy("./favicon-16x16.png");
