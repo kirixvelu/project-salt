@@ -1,19 +1,51 @@
 ---
 title: "Blog"
-layout: "base.html"
+layout: base
 ---
 
 <div>
-  <h1>Blog</h1>
-  
+  <h1>Tenants Blog</h1>
+  <p>
+    We learn lot from our history; most importantly we learn more from sharing
+    of our individual experience in the collective universe. Sadly, the history
+    is being disregarded by the mainstream in order to maintain the comfortable
+    lies that our society is a fair place for all.
+  </p>
+  <p>
+    If that was true, police would protect tenants and landlords without
+    discrimination based on social status. The gruesome pandemic evictions in
+    Toronto by our Toronto Police across the city revealed the historical fact
+    that police exist to serve the ruling class and the corporations.
+  </p>
+
+  <p>
+    Therefore, STU stand united in solidarity with oppressed and the exploited
+    everywhere. Respectively, every STU meeting is mandated to begin with
+    Scarborough land acknowledgment.
+  </p>
+
+  <p class="land-acknowledgement">
+    The land STU stand today is the traditional territory of many nations
+    including the Mississaugas of the Credit, the Anishnabeg, the Chippewa, the
+    Haudenosaunee and the Wendat peoples and is now home to many diverse First
+    Nations, Inuit and Métis peoples. STU acknowledge that Toronto is covered by
+    Treaty 13 signed with the Mississaugas of the Credit, and the Williams
+    Treaties signed with multiple Mississaugas and Chippewa bands.
+  </p>
+
+  <p>
+    By visiting the blog, you agree to respect Scarborough land acknowledgement
+    and access all of its content in the same spirit.
+  </p>
+  <hr />
+
   <div class="blog-list">
+    {% for post in collections.post %}
+    <a href="{{post.url}}" class="blog-single">
+      <p class="title">{{ post.data.title }}</p>
 
-    {% for post in collections.post  %}
-      <a href='{{post.url}}' class="blog-single">
-        <p class="title">{{ post.data.title }}</p>
-
-        <p class="description">{{ post.data.description }}</p>
-      </a>
+      <p class="description">{{ post.data.description }}</p>
+    </a>
     {% endfor %}
   </div>
 </div>

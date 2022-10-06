@@ -1,0 +1,12 @@
+{
+  "title": "Scarborough Tenants Union",
+  "url": "https://scarboroughtenants.ca",
+  "language": "en",
+  "description": "Official website for Scarborough Tenants Union",
+  "author": {
+    "name": "Kiri Vadivelu",
+    "email": "join@scarboroughtenants.ca"
+  },
+  "image": "./logo.png",
+  "feedUrl": "https://scarboroughtenants.ca/feed.xml"
+}
