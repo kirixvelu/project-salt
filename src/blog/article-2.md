@@ -1,5 +1,5 @@
 ---
-title: Tenants are Neglected, from Every Corner
+title: Tenants are Neglected at Every Turn
 description: Rents in the city of Toronto are at some of the lowest levels they've been in years, but affordable housing advocates say they haven't dropped enough to have an impact
 ---
 
