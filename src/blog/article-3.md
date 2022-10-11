@@ -3,7 +3,7 @@ title: Ontario Lawyers to Offer Free Legal Advice
 description: More than 10% of Toronto's rental units were in arrears in 2020 due to the pandemic. Advocacy groups, including Toronto ACORN, are demanding that Ontario ban all evictions
 ---
 
-![test image](../../img/acorn-protest.png)
+![Acorn Protest](../../img/acorn-protest.png)
 
 Excerpt from CBC News [Website](https://www.cbc.ca/news/canada/toronto/ontario-bar-association-tenant-service-1.5920827)
 

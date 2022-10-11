@@ -3,7 +3,7 @@ title: NDP Demands Protections for Renters
 description: With climate change leading to hotter and more frequent heatwaves, it's time to protect tenants who deserve to live in safe and comfortable homes
 ---
 
-![test image](../../img/jessica-bell.jpeg)
+![Jessica Bell MP, Housing Critic](../../img/jessica-bell.jpeg)
 
 Excerpt from Peter Tabuns [Website](https://www.petertabuns.ca/ndp_demands_protections_for_renters_living_in_hot_apartments)
 

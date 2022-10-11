@@ -3,7 +3,7 @@ title: Scarborough Acorn Tenants Strike
 description: Nasar Nader, a Whitby tenant whose family faces eviction after passage of Ontario's Bill 184, stands with Toronto ACORN member in Scarborough
 ---
 
-![test image](../../img/acorn-strike.png)
+![Scarborough Acorn Strike](../../img/acorn-strike.png)
 
 By Mike Adler from [Toronto.com](https://www.toronto.com/news/tenants-landlords-both-picket-scarborough-landlord-and-tenant-board-office/article_019ec6fd-9dc8-5fdc-af44-26cb89b8b1a5.html?)
 

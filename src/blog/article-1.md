@@ -3,7 +3,7 @@ title: STU, ACORN and the Fight for Housing
 description: Housing advocates are encouraging the City of Toronto to make a rent grant program that helps those who are facing eviction permanent
 ---
 
-![test image](../../img/stu-acorn.png)
+![Scarborough Tenants Union, Acorn Toronto, CityNews](../../img/stu-acorn.png)
 
 Excerpt from City [News](https://toronto.citynews.ca/2022/05/30/rent-grant-program-toronto/)
 
