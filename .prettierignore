@@ -1,0 +1,5 @@
+#all feeds
+feed.njk
+robots.njk
+humans.njk
+sitemap.njk

@@ -1,0 +1,19 @@
+---
+permalink: /sitemap.xml
+---
+<?xml version="1.0" encoding="utf-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <title>{{ metadata.title }}</title>
+  <link>{{ metadata.url }}</link>
+  <description>{{ metadata.description }}</description>
+  {% for post in collections.all %} {% set path = post.url | url %} {% if
+  post.data.title and not post.data.excludeFromSitemap %}
+  <url>
+    <loc>{{ metadata.url }}{{ path }}</loc>
+    <lastmod>{{ post.date.toISOString() }}</lastmod>
+    <changefreq
+      >{{ page.data.changeFreq if page.data.changeFreq else "monthly" }}</changefreq
+    >
+  </url>
+  {% endif %} {% endfor %}
+</urlset>
