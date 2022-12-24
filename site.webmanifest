@@ -2,12 +2,14 @@
   "name": "Scarborough Tenants Union",
   "short_name": "STU",
   "description": "Scarborough Tenants Union Website",
-  "start_url": ".",
+  "id": "/?source=pwa",
+  "start_url": "/?source=pwa",
   "icons": [
     {
       "src": "/img/android-chrome-192x192.png",
       "sizes": "192x192",
-      "type": "image/png"
+      "type": "image/png",
+      "purpose": "any maskable"
     },
     {
       "src": "/img/android-chrome-512x512.png",
@@ -17,5 +19,6 @@
   ],
   "theme_color": "#ff0015",
   "background_color": "#f5f5f5",
-  "display": "standalone"
+  "display": "standalone",
+  "orientation": "portrait-primary"
 }
