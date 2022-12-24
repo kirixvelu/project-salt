@@ -5,10 +5,11 @@
   publish = "_site"
   command = "npm run build"
 
+[[plugins]]
+package = "netlify-plugin-checklinks"
+
 [[headers]]
-
   for = "/*"
-
 [headers.values]
   X-Frame-Options = "DENY"
   X-Content-Type-Options = "nosniff"
