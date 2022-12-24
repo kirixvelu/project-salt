@@ -1,9 +1,18 @@
-# The Story of Scarborough Tenants
+# DIGITAL DESIGNERS
 
-Scarborough Tenants Union (STU) is a grass-root movement formed of our necessity to save lives during COVID 2020 in Scarborough. After publicly mandating no evictions during the emergency lock-down, provincial governments quietly allowed eviction applications to be processed at Ontario Landlord and Tenants Board. After corrupting politicians with private wealth and fortunes, big corporations were able use police force to evict tenants who fell behind rent payments.
+[![Netlify Status](https://api.netlify.com/api/v1/badges/9d843b2c-dcb7-4f09-be5f-5d13e5345b90/deploy-status)](https://app.netlify.com/sites/scarboroughtenants/deploys)
 
-The legitimacy of the argument was that tenants failed to pay rent after receiving money that supposed to bailout landlords from banks. As a result, the most vulnerable population was subject to work under dangerous environment in order to meet the high cost of living and feed families during the most uncertain time. Simultaneously, the low wage workers were forced to organize in the community to protect families from corporate dispatched police violence in Toronto.
+- License [Project](https://kiri-vadivelu.ca/license.txt)
+- Build System [11TY](https://11ty.dev/)
+- Web Architecture [Principles](https://jamstack.org/)
+- Design Team [Digital Designers](https://digitaldesigners.ca)
 
-Out of necessity, tenants in Scarborough came together to form union that became the Scarborough Tenants Union in April 2020. STU successfully resisted over 30 illegal evictions at 945 Midland Avenue and in the neighborhoods. The primary role of the union was to educate, inform and provide community legal resources to tenants while responding to immediate threats and harassments from corporate landlords.
+The project was researched, designed and developed by Digital Designers Team in the city of Toronto. Digital Designers is a web design company that specializes in deploying modern portfolio websites, search engine optimizations and social media marketing.
 
-The STU currently headed by Kiri Vadivelu, continue to operate in arm length of several grass-root community organizations to provide community services to tenants across the city. Most notably, Acorn Canada, Federal Metro Tenants Organization, Justice for Workers, East Scarborough Tenants Union and Socialist Action Canada stand in solidarity with STU. People of STU collectively believe that people united can never be defeated.
+As a creative design agency, Digital Designers innovate business operations in the market driven economy. Utilizing the expertise of analytical research, performance design and sustainable implementation of cloud technology, Digital Designers continue to push the boundaries of modern web technology. Among the tech industries, diversity of creative talent enable Digital Designers to be the leading disrupter in Greater Toronto.
+
+If you are interested in creating an awesome digital showcase of your professional work, do not hesitate to reach out to Digital Designers. You may visit [Digital Designers](https://digitaldesigners.ca) to learn more about the team, projects and innovations.
+
+Should you find yourself sharing our values, principles or ethics of business, we want to hear from you. Market may be saturated but we often find ourselves lonely at the top.
+
+Email: hello@digitaldesigners.ca | Toronto
