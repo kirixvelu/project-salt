@@ -8,6 +8,8 @@ module.exports = function (eleventyConfig) {
   eleventyConfig.addPassthroughCopy("./src/js");
   eleventyConfig.addPassthroughCopy("./src/img");
 
+  eleventyConfig.addShortcode("year", () => `${new Date().getFullYear()}`);
+
   eleventyConfig.addPassthroughCopy("./favicon.ico");
   eleventyConfig.addPassthroughCopy("./site.webmanifest");
   eleventyConfig.addPassthroughCopy("./favicon-16x16.png");
