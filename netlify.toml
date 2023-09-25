@@ -23,40 +23,21 @@
   status = 301
   force = true
 
-# more blogs
-[[redirects]]
-from = "/hashnode"
-to = "https://scarborough.hashnode.dev"
-status = 301
-force = true
-
-[[redirects]]
-from = "/substack"
-to = "https://scarborough.substack.com"
-status = 301
-force = true
-
-[[redirects]]
-from = "/tealfeed"
-to = "https://tealfeed.com/scarborough"
-status = 301
-force = true
-
 # feeds
 [[redirects]]
-from = "/feed"
-to = "/feed.xml"
-status = 301
-force = true
+  from = "/feed"
+  to = "/feed.xml"
+  status = 301
+  force = true
 
 [[redirects]]
-from = "/rss"
-to = "/rss.xml"
-status = 301
-force = true
+  from = "/rss"
+  to = "/rss.xml"
+  status = 301
+  force = true
 
 [[redirects]]
-from = "/sitemap"
-to = "/sitemap.xml"
-status = 301
-force = true
+  from = "/sitemap"
+  to = "/sitemap.xml"
+  status = 301
+  force = true
